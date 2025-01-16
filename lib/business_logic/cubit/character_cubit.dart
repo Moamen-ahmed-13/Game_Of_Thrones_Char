@@ -2,7 +2,7 @@ import 'package:bloc/bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:meta/meta.dart';
 
-import '../../data/model.dart';
+import '../../data/models/character.dart';
 import '../../data/repository.dart';
 
 part 'character_state.dart';

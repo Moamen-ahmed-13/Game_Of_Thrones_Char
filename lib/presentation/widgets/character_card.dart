@@ -1,5 +1,5 @@
 import 'package:breaking_bad_char/constants/strings.dart';
-import 'package:breaking_bad_char/data/model.dart';
+import 'package:breaking_bad_char/data/models/character.dart';
 import 'package:flutter/material.dart';
 
 import '../../constants/colors.dart';

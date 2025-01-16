@@ -1,7 +1,7 @@
 import 'package:breaking_bad_char/constants/colors.dart';
 import 'package:flutter/material.dart';
 
-import '../../data/model.dart';
+import '../../data/models/character.dart';
 
 class CharacterDetailsScreen extends StatelessWidget {
   const CharacterDetailsScreen({super.key, required this.character});

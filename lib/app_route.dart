@@ -7,7 +7,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 
 import 'business_logic/cubit/character_cubit.dart';
-import 'data/model.dart';
+import 'data/models/character.dart';
 import 'presentation/screens/character_details_screen.dart';
 
 class AppRouter {

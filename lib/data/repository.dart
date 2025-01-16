@@ -1,4 +1,4 @@
-import 'package:breaking_bad_char/data/model.dart';
+import 'package:breaking_bad_char/data/models/character.dart';
 import 'package:breaking_bad_char/data/web_service.dart';
 
 class CharacterRepository {

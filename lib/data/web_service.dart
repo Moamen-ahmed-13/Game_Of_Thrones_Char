@@ -26,4 +26,14 @@ class CharactersWebServices {
     return [];
   }
  }
+ Future<List<dynamic>> getCharContinents(String charName ) async {
+  try {
+    Response response = await dio.get('Continents');
+    print(response.data.toString());
+    return response.data;
+  }catch (e) {
+    print(e.toString());
+    return [];
+  }
+ }
 }
