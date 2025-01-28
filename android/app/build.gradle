@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.breaking_bad_char"
+    namespace = "com.example.game_of_thrones_char"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -21,7 +21,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId = "com.example.breaking_bad_char"
+        applicationId = "com.example.game_of_thrones_char"
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion

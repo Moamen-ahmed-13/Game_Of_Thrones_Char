@@ -1,7 +1,7 @@
-import 'package:breaking_bad_char/constants/strings.dart';
-import 'package:breaking_bad_char/data/repository.dart';
-import 'package:breaking_bad_char/data/web_service.dart';
-import 'package:breaking_bad_char/presentation/screens/character_screen.dart';
+import 'package:game_of_thrones_char/constants/strings.dart';
+import 'package:game_of_thrones_char/data/repository.dart';
+import 'package:game_of_thrones_char/data/web_service.dart';
+import 'package:game_of_thrones_char/presentation/screens/character_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

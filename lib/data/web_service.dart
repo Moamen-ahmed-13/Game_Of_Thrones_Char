@@ -1,4 +1,4 @@
-import 'package:breaking_bad_char/constants/strings.dart';
+import 'package:game_of_thrones_char/constants/strings.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 

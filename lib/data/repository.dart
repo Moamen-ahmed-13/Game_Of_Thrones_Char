@@ -1,5 +1,5 @@
-import 'package:breaking_bad_char/data/models/character.dart';
-import 'package:breaking_bad_char/data/web_service.dart';
+import 'package:game_of_thrones_char/data/models/character.dart';
+import 'package:game_of_thrones_char/data/web_service.dart';
 
 class CharacterRepository {
   final CharactersWebServices charactersWebServices;
